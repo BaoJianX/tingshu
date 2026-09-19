@@ -1,0 +1,47 @@
+
+.gui-masker.data-v-5b6f7438 {
+  width: 750rpx;
+  position: fixed;
+  left: 0;
+  top: 250rpx;
+  bottom: 0;
+  flex: 1;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.gui-select-menu-title.data-v-5b6f7438 {
+  height: 100rpx;
+}
+.gui-select-menu-title-icon.data-v-5b6f7438 {
+  margin-left: 5px;
+  margin-top: 3px;
+}
+.gui-select-menu.data-v-5b6f7438 {
+  position: fixed;
+  width: 750rpx;
+  left: 0;
+  top: 0;
+}
+.gui-select-menus.data-v-5b6f7438 {
+  height: 300px;
+}
+.gui-select-item.data-v-5b6f7438 {
+  padding: 0 25rpx;
+  height: 88rpx;
+}
+.gui-selected-icon.data-v-5b6f7438 {
+  margin-right: 15rpx;
+}
+.gui-select-input.data-v-5b6f7438 {
+  width: 200rpx;
+  padding: 0 16rpx;
+  border-radius: 60rpx;
+}
+.gui-select-input-btn.data-v-5b6f7438 {
+  width: 100rpx;
+  line-height: 68rpx;
+  height: 68rpx;
+  text-align: center;
+  font-size: 28rpx;
+  border-radius: 6rpx;
+  margin-left: 15rpx;
+}

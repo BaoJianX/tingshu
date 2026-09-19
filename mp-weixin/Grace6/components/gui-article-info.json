@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "gui-image": "./gui-image",
+    "gui-link": "./gui-link"
+  }
+}

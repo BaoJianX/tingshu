@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "gui-header-leading": "../../Grace6/components/gui-header-leading",
+    "gui-switch-navigation": "../../Grace6/components/gui-switch-navigation",
+    "gui-select-menu": "../../Grace6/components/gui-select-menu",
+    "gui-page": "../../Grace6/components/gui-page"
+  }
+}

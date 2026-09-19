@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "gui-image": "../../Grace6/components/gui-image"
+  }
+}

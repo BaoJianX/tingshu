@@ -1,0 +1,72 @@
+/* [z-paging]公用的静态css资源 */
+.zp-line-loading-image.data-v-8cc5c400 {
+	margin-right: 8rpx;
+	width: 28rpx;
+	height: 28rpx;
+
+	animation: loading-flower-8cc5c400 1s steps(12) infinite;
+
+	color: #666666;
+}
+.zp-loading-image-ios.data-v-8cc5c400{
+	width: 20px;
+	height: 20px;
+}
+.zp-loading-image-android.data-v-8cc5c400{
+	width: 32rpx;
+	height: 32rpx;
+}
+@keyframes loading-flower-8cc5c400 {
+0% {
+		transform: rotate(0deg);
+}
+to {
+		transform: rotate(1turn);
+}
+}
+.zp-l-container.data-v-8cc5c400 {
+		height: 80rpx;
+		font-size: 27rpx;
+
+		clear: both;
+		display: flex;
+
+		flex-direction: row;
+		align-items: center;
+		justify-content: center;
+}
+.zp-l-line-loading-custom-image.data-v-8cc5c400 {
+		color: #a4a4a4;
+		margin-right: 8rpx;
+		width: 28rpx;
+		height: 28rpx;
+}
+.zp-l-line-loading-custom-image-animated.data-v-8cc5c400{
+
+		animation: loading-circle-8cc5c400 1s linear infinite;
+}
+.zp-l-circle-loading-view.data-v-8cc5c400 {
+		margin-right: 8rpx;
+		width: 23rpx;
+		height: 23rpx;
+		border: 3rpx solid #dddddd;
+		border-radius: 50%;
+
+		animation: loading-circle-8cc5c400 1s linear infinite;
+}
+.zp-l-text.data-v-8cc5c400 {
+}
+.zp-l-line.data-v-8cc5c400 {
+		height: 1px;
+		width: 100rpx;
+		margin: 0rpx 10rpx;
+}
+@keyframes loading-circle-8cc5c400 {
+0% {
+			transform: rotate(0deg);
+}
+100% {
+			transform: rotate(360deg);
+}
+}
+

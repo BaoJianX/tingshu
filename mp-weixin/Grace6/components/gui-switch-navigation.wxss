@@ -1,0 +1,7 @@
+
+.nav-active-line.data-v-7f73495d{margin-top:6rpx;}
+.gui-nav-center.data-v-7f73495d{justify-content:center; text-align:center;}
+@keyframes gui-nav-scale-7f73495d{0%{transform: scale(0.1);}
+100%{transform: scale(1);}}
+.gui-nav-scale.data-v-7f73495d{animation:gui-nav-scale-7f73495d 350ms forwards;}
+.gui-nav-tips.data-v-7f73495d{text-align:center; line-height:30rpx; height:30rpx; border-radius:50rpx; margin-top:5rpx; margin-left:8rpx;}

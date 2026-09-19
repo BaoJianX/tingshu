@@ -1,0 +1,1 @@
+<view class="container data-v-5c47ca5b" style="{{'height:' + b}}"><view class="data-v-5c47ca5b" catchtouchmove="{{a}}"><slot name="top"/></view><view class="content data-v-5c47ca5b"><slot></slot></view></view>

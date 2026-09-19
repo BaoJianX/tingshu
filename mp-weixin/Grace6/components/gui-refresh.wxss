@@ -1,0 +1,8 @@
+
+.gui-page-refresh.data-v-adbb42b5{overflow:hidden}
+.gui-page-refresh-text.data-v-adbb42b5{line-height:38rpx;height:38rpx;}
+@keyframes gload-hide-adbb42b5{0%{opacity:1; height:50px;}
+70%{opacity:1; height:50px;}
+100%{opacity:0; height:0px;}}
+.gload-hide.data-v-adbb42b5{animation:gload-hide-adbb42b5 1s linear;}
+

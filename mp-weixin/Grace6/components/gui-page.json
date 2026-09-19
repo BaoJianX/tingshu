@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "gui-refresh": "./gui-refresh",
+    "gui-loadmore": "./gui-loadmore",
+    "gui-iphone-bottom": "./gui-iphone-bottom",
+    "gui-page-loading": "./gui-page-loading"
+  }
+}

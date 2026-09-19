@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "gui-header-leading": "../../Grace6/components/gui-header-leading",
+    "gui-article-info": "../../Grace6/components/gui-article-info",
+    "gui-spread": "../../Grace6/components/gui-spread",
+    "gui-iphone-bottom": "../../Grace6/components/gui-iphone-bottom",
+    "gui-page": "../../Grace6/components/gui-page"
+  }
+}

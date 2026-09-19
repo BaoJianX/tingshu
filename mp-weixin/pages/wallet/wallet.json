@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的钱包",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "../../Grace6/components/gui-page",
+    "uni-popup-dialog": "../../uni_modules/uni-popup/components/uni-popup-dialog/uni-popup-dialog",
+    "gui-popup": "../../Grace6/components/gui-popup",
+    "uni-popup": "../../uni_modules/uni-popup/components/uni-popup/uni-popup"
+  }
+}

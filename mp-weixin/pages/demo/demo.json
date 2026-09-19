@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "demo",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-switch-navigation": "../../Grace6/components/gui-switch-navigation",
+    "gui-select-menu": "../../Grace6/components/gui-select-menu",
+    "album-item-card": "../../components/AlbumItemCard/AlbumItemCard",
+    "z-paging": "../../uni_modules/z-paging/components/z-paging/z-paging"
+  }
+}

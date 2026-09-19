@@ -1,0 +1,11 @@
+
+.container.data-v-5c47ca5b {
+ width: 100vw;
+ background-color: transparent;
+ transition: height 0.2s ease-in-out;
+}
+.content.data-v-5c47ca5b{
+  height: 100%;
+  width: 100%;
+  background-color: #fff;
+}

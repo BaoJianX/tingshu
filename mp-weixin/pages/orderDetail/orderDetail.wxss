@@ -1,0 +1,16 @@
+
+.gui-creation-live.data-v-1353b6cf {
+	height: 80rpx;
+	bottom: -20rpx;
+	left: 25rpx;
+	border-radius: 20rpx;
+	width: 700rpx;
+}
+.gui-album-img.data-v-1353b6cf {
+	width: 150rpx;
+	height: 150rpx;
+	border-radius: 30rpx;
+}
+.pay-btn-container.data-v-1353b6cf{
+	margin: 40rpx 0;
+}

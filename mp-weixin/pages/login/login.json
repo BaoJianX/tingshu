@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "登陆",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "../../Grace6/components/gui-page",
+    "uni-popup-dialog": "../../uni_modules/uni-popup/components/uni-popup-dialog/uni-popup-dialog",
+    "gui-image": "../../Grace6/components/gui-image",
+    "uni-popup": "../../uni_modules/uni-popup/components/uni-popup/uni-popup"
+  }
+}

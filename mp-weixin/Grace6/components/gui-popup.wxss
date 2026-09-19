@@ -1,0 +1,10 @@
+
+/* 遮罩层 */
+.gui-popup.data-v-c6cddaae{width:750rpx; position:fixed; z-index:999; left:0; top:0; bottom:0;}
+.gui-popup-content.data-v-c6cddaae{overflow:hidden;}
+.gui-fade-out.data-v-c6cddaae{opacity:0;}
+.gui-popup-center.data-v-c6cddaae{transform:scale(0.3,0.3);}
+.gui-popup-top.data-v-c6cddaae{transform:translateY(-1000px);}
+.gui-popup-bottom.data-v-c6cddaae{transform:translateY(600px);}
+.gui-popup-left.data-v-c6cddaae{transform:translateX(-600px);}
+.gui-popup-right.data-v-c6cddaae{transform:translateX(600px);}

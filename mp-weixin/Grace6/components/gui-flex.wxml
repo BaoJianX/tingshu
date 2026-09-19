@@ -1,0 +1,1 @@
+<view class="{{a}}" hover-class="{{b}}" style="{{c}}"><slot></slot></view>

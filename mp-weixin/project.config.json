@@ -1,0 +1,100 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true,
+    "bigPackageSizeSupport": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "condition": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "3.17.1",
+  "appid": "wx4ed590d73aeef317",
+  "projectname": "ListenToBooks",
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "测试页-首页",
+          "pathName": "pages/index/index",
+          "query": ""
+        },
+        {
+          "name": "测试页-专辑详情",
+          "pathName": "pages/detail/detail",
+          "query": "id=1"
+        },
+        {
+          "name": "测试页-我的作品页",
+          "pathName": "pages/myWork/myWork",
+          "query": ""
+        },
+        {
+          "name": "测试页-创建专辑",
+          "pathName": "pages/createAlbum/createAlbum",
+          "query": ""
+        },
+        {
+          "name": "测试页-修改专辑",
+          "pathName": "pages/createAlbum/createAlbum",
+          "query": "id=1"
+        },
+        {
+          "name": "测试页-创建音频",
+          "pathName": "pages/createTrack/createTrack",
+          "query": ""
+        },
+        {
+          "name": "测试页-修改音频",
+          "pathName": "pages/createTrack/createTrack",
+          "query": "id=1"
+        },
+        {
+          "name": "测试页-搜索历史",
+          "pathName": "pages/search/search",
+          "query": ""
+        },
+        {
+          "name": "测试页-分类列表",
+          "pathName": "pages/categories/categories",
+          "query": "category1Id=1&pageTitle=音乐"
+        },
+        {
+          "name": "测试页-分类查询列表",
+          "pathName": "pages/search/search",
+          "query": "category1Id=1&category2Id=101&category3Id=1002&pageTitle=音乐"
+        },
+        {
+          "name": "测试页-播放器",
+          "pathName": "pages/player/player",
+          "query": "albumId=1&trackId=1"
+        },
+        {
+          "name": "测试页-修改个人信息",
+          "pathName": "pages/updateInfo/updateInfo",
+          "query": ""
+        },
+        {
+          "name": "测试页-排行榜",
+          "pathName": "pages/rank/rank",
+          "query": ""
+        }
+      ]
+    }
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}

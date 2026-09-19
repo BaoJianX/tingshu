@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "资金记录",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-switch-navigation": "../../Grace6/components/gui-switch-navigation",
+    "z-paging": "../../uni_modules/z-paging/components/z-paging/z-paging"
+  }
+}

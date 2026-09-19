@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "搜索",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "z-paging": "../../uni_modules/z-paging/components/z-paging/z-paging",
+    "search-top": "../../components/SearchTop/SearchTop",
+    "search-results-item": "../../components/SearchResultsItem/SearchResultsItem"
+  }
+}

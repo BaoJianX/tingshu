@@ -1,0 +1,74 @@
+
+.header.data-v-93207a4f {
+	padding: 15rpx 30rpx;
+	height: 100rpx;
+}
+.gui-order.data-v-93207a4f {
+	padding: 25rpx;
+	margin: 25rpx;
+	margin-bottom: 0rpx;
+	border-radius: 10rpx;
+}
+.gui-order-number.data-v-93207a4f {
+	line-height: 50rpx;
+	font-size: 26rpx;
+	width: 300rpx;
+	flex: 1;
+}
+.gui-shop.data-v-93207a4f {
+	line-height: 88rpx;
+	font-size: 28rpx;
+	font-weight: bold;
+}
+.gui-order-goods.data-v-93207a4f {
+	flex-direction: row;
+	flex-wrap: nowrap;
+	padding-bottom: 20rpx;
+	align-items: flex-start;
+}
+.gui-order-goods-img.data-v-93207a4f {
+	width: 100rpx;
+	height: 100rpx;
+}
+.gui-order-goods-name.data-v-93207a4f {
+	line-height: 40rpx;
+	width: 200rpx;
+	flex: 1;
+	overflow: hidden;
+	font-size: 26rpx;
+	margin-left: 20rpx;
+	margin-right: 20rpx;
+}
+.gui-order-goods-price.data-v-93207a4f {
+	font-size: 24rpx;
+	line-height: 50rpx;
+	width: 150rpx;
+	text-align: right;
+}
+.gui-order-footer.data-v-93207a4f {
+	margin-top: 2px;
+}
+.gui-order-status.data-v-93207a4f {
+	line-height: 50rpx;
+	font-size: 26rpx;
+	width: 100rpx;
+	text-align: center;
+}
+.gui-order-btn.data-v-93207a4f {
+	width: 150rpx;
+	height: 50rpx;
+	line-height: 50rpx;
+	font-size: 22rpx;
+	text-align: center;
+	border-radius: 60rpx;
+	margin-left: 20rpx;
+}
+.gui-order-btn-red.data-v-93207a4f {
+	border-color: #ff0036;
+	color: #ff0036;
+}
+.gui-empty-icon.data-v-93207a4f {
+	font-size: 130rpx;
+	line-height: 130rpx;
+	margin-top: 200rpx;
+}

@@ -1,0 +1,207 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.le-flex.data-v-835732cc {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+.le-dropdown.data-v-835732cc {
+  width: 100%;
+  position: relative;
+}
+.le-dropdown .le-dropdown-menu.data-v-835732cc {
+  display: flex;
+  position: relative;
+  z-index: 11;
+  height: 80rpx;
+}
+.le-dropdown .le-dropdown-menu .le-dropdown-menu-item.data-v-835732cc {
+  height: 100%;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.le-dropdown .le-dropdown-menu .le-dropdown-menu-item .le-dropdown-menu-item-text.data-v-835732cc {
+  font-size: 24rpx;
+}
+.le-dropdown .le-dropdown-menu .le-dropdown-menu-item .le-dropdown-menu-item-arrow.data-v-835732cc {
+  margin-left: 6rpx;
+  transition: transform 0.3s;
+  align-items: center;
+  display: flex;
+  position: relative;
+  width: 10rpx;
+  height: 100%;
+}
+.le-dropdown .le-dropdown-menu .le-dropdown-menu-item .le-dropdown-menu-item-arrow.data-v-835732cc::before {
+  content: "";
+  position: absolute;
+  top: calc(50% - 8rpx);
+  right: -2rpx;
+  transform: translateY(-50%);
+  border: 6rpx solid transparent;
+  border-bottom-color: #c1c1c1;
+}
+.le-dropdown .le-dropdown-menu .le-dropdown-menu-item .le-dropdown-menu-item-arrow.data-v-835732cc::after {
+  content: "";
+  position: absolute;
+  top: calc(50% + 8rpx);
+  right: -2rpx;
+  transform: translateY(-50%);
+  border: 6rpx solid transparent;
+  border-top-color: #c1c1c1;
+}
+.le-dropdown .le-dropdown-menu .le-dropdown-menu-item .le-dropdown-menu-item-arrow_top.data-v-835732cc::before {
+  border-bottom-color: var(--dropdownThemeColor);
+}
+.le-dropdown .le-dropdown-menu .le-dropdown-menu-item .le-dropdown-menu-item-arrow_bottom.data-v-835732cc::after {
+  border-top-color: var(--dropdownThemeColor);
+}
+.le-dropdown .le-dropdown-menu .le-dropdown-menu-item .le-dropdown-menu-item-basicarrow.data-v-835732cc {
+  margin-left: 6rpx;
+  transition: transform 0.3s;
+  align-items: center;
+  display: flex;
+  position: relative;
+  border: 6rpx solid transparent;
+  border-bottom: 0rpx solid transparent;
+  border-top-color: #c1c1c1;
+}
+.le-dropdown .le-dropdown-menu .le-dropdown-menu-item .le-dropdown-menu-item-basicarrow_rotate.data-v-835732cc {
+  transform: rotate(180deg);
+  border-top-color: var(--dropdownThemeColor);
+}
+.le-dropdown .le-dropdown-content.data-v-835732cc {
+  position: absolute;
+  z-index: 8;
+  width: 100%;
+  left: 0px;
+  bottom: 0;
+  overflow: hidden;
+}
+.le-dropdown .le-dropdown-content .le-dropdown-content-mask.data-v-835732cc {
+  position: absolute;
+  z-index: 9;
+  background: rgba(0, 0, 0, 0.3);
+  width: 100%;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+.le-dropdown .le-dropdown-content .le-dropdown-content-popup.data-v-835732cc {
+  position: relative;
+  max-height: 100%;
+  overflow: auto;
+  z-index: 10;
+  transition: all 0.3s;
+  transform: translate3D(0, -100%, 0);
+}
+.le-dropdown-popup-content.data-v-835732cc {
+  font-size: 28rpx;
+  border-radius: 0 0 20rpx 20rpx;
+  background-color: #ffffff;
+}
+.le-dropdown-cell.data-v-835732cc {
+  padding: 0 30rpx;
+}
+.le-dropdown-cell .le-dropdown-cell-item.data-v-835732cc {
+  padding: 20rpx 0;
+  color: #333333;
+  font-size: 28rpx;
+  border-bottom: 1rpx solid #d5d5d5;
+}
+.le-dropdown-cell .le-dropdown-cell-item.data-v-835732cc:last-child {
+  border-bottom: 0rpx solid #d5d5d5;
+}
+.le-dropdown-cell .le-dropdown-cell-active.data-v-835732cc {
+  color: var(--dropdownThemeColor);
+}
+.le-dropdown-filter .le-dropdown-filter-item.data-v-835732cc {
+  padding: 0 26rpx;
+}
+.le-dropdown-filter .le-dropdown-filter-title.data-v-835732cc {
+  padding-top: 34rpx;
+  margin-bottom: 18rpx;
+  color: #333333;
+  font-size: 24rpx;
+}
+.le-dropdown-filter .le-dropdown-filter-title .le-dropdown-filter-subtitle.data-v-835732cc {
+  margin-left: 10rpx;
+  color: var(--dropdownThemeColor);
+}
+.le-dropdown-filter .le-dropdown-filter-content.data-v-835732cc {
+  display: flex;
+  flex-wrap: wrap;
+}
+.le-dropdown-filter .le-dropdown-filter-box.data-v-835732cc {
+  width: 200rpx;
+  margin-right: 30rpx;
+  margin-bottom: 14rpx;
+  padding: 18rpx 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28rpx;
+  color: #333333;
+  background-color: #f5f5f5;
+  border-radius: 999rpx;
+}
+.le-dropdown-filter .le-dropdown-filter-box-active.data-v-835732cc {
+  color: var(--dropdownThemeColor);
+  background-color: rgba(var(--dropdownThemeColorRgb), 0.04);
+}
+.le-dropdown-footer.data-v-835732cc {
+  display: flex;
+  align-items: center;
+  margin-top: 14rpx;
+}
+.le-dropdown-footer .le-dropdown-reset.data-v-835732cc {
+  flex: 1;
+  margin: 26rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 68rpx;
+  font-size: 28rpx;
+  background-color: #ffffff;
+  color: var(--dropdownThemeColor);
+  border: 2rpx solid var(--dropdownThemeColor);
+  border-radius: 999rpx;
+}
+.le-dropdown-footer .le-dropdown-confirm.data-v-835732cc {
+  flex: 1;
+  margin: 26rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 68rpx;
+  font-size: 28rpx;
+  background-color: var(--dropdownThemeColor);
+  border: 2rpx solid var(--dropdownThemeColor);
+  color: #ffffff;
+  border-radius: 999rpx;
+}

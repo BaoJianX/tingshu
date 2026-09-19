@@ -1,0 +1,14 @@
+
+.gui-swiper-card-wrap.data-v-97684a3b{position:relative;}
+.gui-swiper-card.data-v-97684a3b{overflow:hidden;}
+.gui-swiper-card-item.data-v-97684a3b{font-size:0; overflow:hidden; line-height:0;}
+.gui-swiper-card-nav.data-v-97684a3b{font-size:0; position:relative;}
+.gui-indicator-dots.data-v-97684a3b{width:750rpx; overflow:hidden; z-index:1; left:0; bottom:0;}
+.gui-indicator-dot.data-v-97684a3b{margin:6rpx;}
+.gui-indicator-dots-wrap.data-v-97684a3b{padding:0 20rpx;}
+.gui-indicator-dot-text.data-v-97684a3b{text-align:center; line-height:68rpx; padding:0 4rpx; color:#FFFFFF; font-size:32rpx;}
+.gui-indicator-dot-numbers.data-v-97684a3b{overflow:hidden; align-items:center; position:absolute; z-index:1; left:0; bottom:0;}
+.gui-swiper-text.data-v-97684a3b{width:200rpx; line-height:68rpx; padding-right:25rpx; overflow:hidden;}
+@keyframes dot-show-97684a3b{from{opacity:0.1;}to{opacity:1;}}
+.dot-show.data-v-97684a3b{animation:dot-show-97684a3b 300ms linear forwards;}
+

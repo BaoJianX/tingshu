@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "确认订单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-card": "../../uni_modules/uni-card/components/uni-card/uni-card",
+    "gui-iphone-bottom": "../../Grace6/components/gui-iphone-bottom",
+    "gui-page": "../../Grace6/components/gui-page",
+    "pay-type-select": "../../components/PayTypeSelect/PayTypeSelect"
+  }
+}

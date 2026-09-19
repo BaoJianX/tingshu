@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "直播播放",
+  "usingComponents": {
+    "chat-item": "../../components/chatItem/chatItem",
+    "z-paging": "../../uni_modules/z-paging/components/z-paging/z-paging",
+    "chat-input-bar": "../../components/chatInputBar/chatInputBar"
+  }
+}

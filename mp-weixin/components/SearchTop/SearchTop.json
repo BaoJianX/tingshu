@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "le-dropdown": "../../uni_modules/le-dropdown/components/le-dropdown/le-dropdown",
+    "search-input": "../SearchInput/SearchInput"
+  }
+}

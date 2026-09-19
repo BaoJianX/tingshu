@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "gui-flex": "../../Grace6/components/gui-flex"
+  }
+}

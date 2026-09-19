@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "le-dropdown-picker": "./components/le-picker"
+  }
+}

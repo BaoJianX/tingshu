@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "disableScroll": true,
+  "usingComponents": {
+    "gui-header-leading": "../../Grace6/components/gui-header-leading",
+    "gui-tags": "../../Grace6/components/gui-tags",
+    "mp-html": "../../uni_modules/mp-html/components/mp-html/mp-html",
+    "gui-spread": "../../Grace6/components/gui-spread",
+    "uni-icons": "../../uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "gui-page": "../../Grace6/components/gui-page",
+    "gui-popup": "../../Grace6/components/gui-popup",
+    "z-paging": "../../uni_modules/z-paging/components/z-paging/z-paging",
+    "resizable": "../../components/Resizable/Resizable"
+  }
+}

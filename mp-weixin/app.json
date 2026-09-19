@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/live/live",
+    "pages/livePush/livePush",
+    "pages/livePlay/livePlay",
+    "pages/creatLivePush/creatLivePush",
+    "pages/player/player",
+    "pages/rank/rank",
+    "pages/my/my",
+    "pages/updateInfo/updateInfo",
+    "pages/album/album",
+    "pages/detail/detail",
+    "pages/confirmOrder/confirmOrder",
+    "pages/works/works",
+    "pages/categories/categories",
+    "pages/wallet/wallet",
+    "pages/fund/fund",
+    "pages/orderDetail/orderDetail",
+    "pages/order/order",
+    "pages/createAlbum/createAlbum",
+    "pages/createTrack/createTrack",
+    "pages/vipChannel/vipChannel",
+    "pages/myWork/myWork",
+    "pages/demo/demo",
+    "pages/search/search",
+    "pages/login/login",
+    "pages/paySuccess/paySuccess",
+    "pages/setting/setting"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "requiredBackgroundModes": [
+    "audio",
+    "location"
+  ],
+  "usingComponents": {}
+}

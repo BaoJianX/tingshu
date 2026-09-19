@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "我的作品",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-switch-navigation": "../../Grace6/components/gui-switch-navigation",
+    "album-item-card": "../../components/AlbumItemCard/AlbumItemCard",
+    "track-item-card": "../../components/TrackItemCard/TrackItemCard",
+    "z-paging": "../../uni_modules/z-paging/components/z-paging/z-paging",
+    "gui-select-menu": "../../Grace6/components/gui-select-menu"
+  }
+}

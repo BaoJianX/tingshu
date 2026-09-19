@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "gui-popup": "../../Grace6/components/gui-popup"
+  }
+}

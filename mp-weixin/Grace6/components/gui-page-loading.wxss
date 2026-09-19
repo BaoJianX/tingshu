@@ -1,0 +1,14 @@
+
+@keyframes pageLoading1-cdb33dc3{0% {opacity:0.5; transform:scale(1);}
+40% {opacity:1; transform:scale(1.3);}
+60%{opacity:0.5; transform:scale(1);}}
+@keyframes pageLoading2-cdb33dc3{20% {opacity:0.5; transform:scale(1);}
+60% {opacity:1; transform:scale(1.3);}
+80% {opacity:0.5; transform:scale(1);}}
+@keyframes pageLoading3-cdb33dc3{40% {opacity:0.5; transform:scale(1);}
+80% {opacity:1; transform:scale(1.3);}
+100% {opacity:0.5; transform:scale(1);}}
+.animate1.data-v-cdb33dc3{animation:pageLoading1-cdb33dc3 1.2s infinite linear;}
+.animate2.data-v-cdb33dc3{animation:pageLoading2-cdb33dc3 1.2s infinite linear;}
+.animate3.data-v-cdb33dc3{animation:pageLoading3-cdb33dc3 1.2s infinite linear;}
+

@@ -1,0 +1,42 @@
+
+.zp-container.data-v-b7999e14{
+
+		display: flex;
+
+		align-items: center;
+		justify-content: center;
+}
+.zp-container-fixed.data-v-b7999e14 {
+
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+}
+.zp-main.data-v-b7999e14{
+
+		display: flex;
+
+		flex-direction: column;
+		align-items: center;
+        padding: 50rpx 0rpx;
+}
+.zp-main-image.data-v-b7999e14 {
+		width: 200rpx;
+		height: 200rpx;
+}
+.zp-main-title.data-v-b7999e14 {
+		font-size: 26rpx;
+		color: #aaaaaa;
+		text-align: center;
+		margin-top: 10rpx;
+}
+.zp-main-error-btn.data-v-b7999e14 {
+		font-size: 26rpx;
+		padding: 8rpx 24rpx;
+		border: solid 1px #dddddd;
+		border-radius: 6rpx;
+		color: #aaaaaa;
+		margin-top: 50rpx;
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "直播",
+  "usingComponents": {
+    "gui-image": "../../Grace6/components/gui-image",
+    "bottom-nav": "../../components/BottomNav/BottomNav",
+    "gui-page": "../../Grace6/components/gui-page"
+  }
+}

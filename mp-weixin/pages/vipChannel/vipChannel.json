@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "vip频道",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "../../Grace6/components/gui-page"
+  }
+}

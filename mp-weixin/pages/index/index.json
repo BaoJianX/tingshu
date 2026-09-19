@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "gui-search": "../../Grace6/components/gui-search",
+    "gui-switch-navigation": "../../Grace6/components/gui-switch-navigation",
+    "gui-swiper": "../../Grace6/components/gui-swiper",
+    "secondary-classification-nav": "../../components/SecondaryClassificationNav/SecondaryClassificationNav",
+    "goods-card": "../../components/GoodsCard/GoodsCard",
+    "bottom-nav": "../../components/BottomNav/BottomNav",
+    "gui-page": "../../Grace6/components/gui-page"
+  }
+}
